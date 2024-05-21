@@ -5,10 +5,12 @@
 package com.cuongnp.mathutil.test.core;
 
 import static com.cuongnp.mathutil.core.MathUtil.getFactorial;
-import org.junit.Assert;
+import junit.framework.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
+
+
 
 
 
